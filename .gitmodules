@@ -1,0 +1,3 @@
+[submodule "vendor/concurrent_channel"]
+	path = vendor/concurrent_channel
+	url = https://github.com/SoftwearDevelopment/concurrent_channel
